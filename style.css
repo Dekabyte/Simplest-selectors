@@ -1,0 +1,19 @@
+.asteroid_big{ /* The Businessman */
+    color: blue;
+    background-color: yellow;
+}
+
+.asteroid_b329_big{ /* The Lamplighter */
+    color: blue;
+    font-weight: bold;
+}
+
+.asteroid_b326{ /* The Conceited Man */
+    border: 1px solid green;
+    font-weight: bold;
+}
+
+#b325{ /* The King */
+    border: 1px solid green;
+    font-weight: bold;
+}
